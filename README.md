@@ -34,7 +34,7 @@ I am a **Software Engineer** focused on designing scalable systems and automated
   <a href="https://linkedin.com/in/oussama-ms">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:msaadoussama1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
