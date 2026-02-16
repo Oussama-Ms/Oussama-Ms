@@ -19,12 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** focused on designing scalable systems and automated pipelines. I specialize in containerized architectures, bridging the gap between data-driven insights and production-grade software.
-
-- 🔭 I’m currently working on **Full Stack Architectures & Kubernetes**
-- 🌱 I’m currently learning **Cloud Native Patterns & Advanced System Design**
-- 👯 I’m looking to collaborate on **Open Source DevOps & Backend Projects**
-- 💬 Ask me about **Docker, React, Node.js, Spring Boot, and CI/CD**
+<h3 align="center">
+I am a Software Engineer focused on designing scalable systems and automated pipelines. I specialize in containerized architectures, bridging the gap between data-driven insights and production-grade software. 
+</h3
 
 <br/>
 
@@ -53,11 +50,6 @@ I am a **Software Engineer** focused on designing scalable systems and automated
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oussama-Ms&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Ms&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&langs_count=6" height="150" alt="languages graph" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Ms&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="streak graph" />
