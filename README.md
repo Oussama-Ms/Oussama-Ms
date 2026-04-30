@@ -42,8 +42,8 @@ I am a Software Engineer focused on designing scalable systems and automated pip
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,nodejs,express,react,tailwind,vite,postgres,docker,githubactions,linux,bash" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,nodejs,express,react,tailwind,vite,postgres,docker,githubactions,linux,bash,jenkins,mongodb,git,vscode,postman,sklearn,tensorflow,pytorch,r,spark,matplotlib" />
+</p>
 </div>
 
 <br/>
