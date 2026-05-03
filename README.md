@@ -60,5 +60,5 @@ I am a Software Engineer focused on designing scalable systems and automated pip
 ## 🧩 Contributions
 
 <div align="center">
-  <img src="https://github.com/Oussama-Ms/Oussama-Ms/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+  <img src="https://cdn.jsdelivr.net/gh/Oussama-Ms/Oussama-Ms@output/snake.svg" alt="snake contribution" />
 </div>
